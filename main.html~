@@ -273,10 +273,8 @@
           </p>
         </div>
         <div class="span5 asset">
-        	<div class="video-container"> 
-        		<iframe width="480" height="270" src="http://www.youtube-nocookie.com/embed/nM_PXQ7SUiI?rel=0" frameborder="0" allowfullscreen></iframe>
-         	<!-- <img class="img-polaroid" src="http://placehold.it/480x300"> -->
-         </div>
+        	<iframe width="480" height="270" src="http://www.youtube-nocookie.com/embed/nM_PXQ7SUiI?rel=0" frameborder="0" allowfullscreen></iframe>
+          <!-- <img class="img-polaroid" src="http://placehold.it/480x300"> -->
         </div>
       </div>
       
