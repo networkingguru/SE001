@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Sponsor OneFourFive.is with a Credit Card</title>
+</head>
+<body>
+<div style="text-align: center"><h3>Sponsor OneFourFive.is with a Credit Card</h3>
+<h4>Enter amount in USD below</h4>
+<form action="" method="POST">
+<script
+  src="https://checkout.stripe.com/v2/checkout.js" class="stripe-button"
+  data-key="pk_test_hLherZU28Zalhpa4YSu1DizM"
+  data-amount="100"
+  data-name="Sponsor OneFourFive.is"
+  data-currency="usd"
+  data-image="/128x128.png">
+</script>
+</form>
+</div>
+</body>
+</html>

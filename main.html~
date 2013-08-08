@@ -245,7 +245,7 @@
             <!-- http://twitter.github.io/bootstrap/base-css.html#buttons -->
             <!--<button class="btn btn-success btn-large">Preorder</button>-->
 				
-            <a class="coinbase-button" data-code="261e830e7f2be79e84b72a7efc5ff6fc" data-button-style="donation_large" href="https://coinbase.com/checkouts/261e830e7f2be79e84b72a7efc5ff6fc">Sponsor with Bitcoins</a>
+            <a class="coinbase-button" data-code="261e830e7f2be79e84b72a7efc5ff6fc" data-button-style="donation_large" href="https://coinbase.com/checkouts/261e830e7f2be79e84b72a7efc5ff6fc">Sponsor with Bitcoins</a> </p>
             <script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
             
             <a href="#" onclick="window.open('stripe_pay.html', 'newwindow', 'width=250, height=800'); return false;" class="CardButton">Sponsor with Credit Card</a> 
